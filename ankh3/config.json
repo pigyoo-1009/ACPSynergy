@@ -1,0 +1,31 @@
+{
+  "_name_or_path": "/Volumes/Ahmed/Google/projects/ankh/hf/large_el48_dl24/",
+  "architectures": [
+    "T5ForConditionalGeneration"
+  ],
+  "d_ff": 3840,
+  "d_kv": 64,
+  "d_model": 1536,
+  "decoder_start_token_id": 0,
+  "dense_act_fn": "silu",
+  "dropout_rate": 0.0,
+  "eos_token_id": 1,
+  "feed_forward_proj": "gated-silu",
+  "initializer_factor": 1.0,
+  "is_encoder_decoder": true,
+  "is_gated_act": true,
+  "layer_norm_epsilon": 1e-06,
+  "model_type": "t5",
+  "num_decoder_layers": 24,
+  "num_heads": 16,
+  "num_layers": 48,
+  "output_past": true,
+  "pad_token_id": 0,
+  "relative_attention_max_distance": 128,
+  "relative_attention_num_buckets": 64,
+  "tie_word_embeddings": false,
+  "torch_dtype": "float32",
+  "transformers_version": "4.19.0.dev0",
+  "use_cache": true,
+  "vocab_size": 256
+}
