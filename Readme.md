@@ -1,6 +1,6 @@
 # ACPSynergy
 
-**ACPSynergy: 协同双模态深度语义编码与自适应平衡策略的抗癌肽智能预测系统及其可解释性研究框架**
+**ACPSynergy: An Intelligent Prediction System for Anticancer Peptides via Synergistic Bimodal Deep Semantic Encoding and Adaptive Balancing Strategy with Interpretability Framework**
 ![famework.png](famework.png)
 ACPSynergy constructs a multi-level feature extraction framework by integrating ProtFlash and Ankh3 protein language models. It introduces GANs to enhance data diversity and utilizes the FusionMMRCore strategy for efficient feature sampling. Ultimately, it achieves high-precision anticancer peptide prediction via GrowNet, SVM, and Random Forest classifiers.
 
