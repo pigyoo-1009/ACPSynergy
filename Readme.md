@@ -21,6 +21,7 @@ ACPSynergy constructs a multi-level feature extraction framework by integrating 
 | ACP99 | 194 | 194 | 388  |
 
 **Features Folder**： Stores multi-level feature vectors extracted from training and testing sets, including ProtFlash features (512 dimensions reduced to 256), Ankh3 features (1536 dimensions reduced to 256), fused features (512 dimensions), along with corresponding preprocessor objects and label files.
+
 **models Folder**：Contains trained model files.
 - **cv_models Subfolder**：Stores model files from each fold during 10-fold cross-validation (10 files each for GrowNet, SVM, and Random Forest).
 - **final_models Subfolder**：Stores final ensemble model files, including GrowNet weight file (grownet.pth), SVM classifier (svm.pkl), Random Forest classifier (rf.pkl), and model configuration file (config.pkl).
