@@ -2,7 +2,7 @@
 
 **ACPSynergy: Intelligent Prediction System for Anticancer Peptides Based on Synergistic Dual-Modal Deep Semantic Encoding and Adaptive Balancing Strategy with Interpretability Framework**
 ![famework.png](famework.png)
-ACPSynergy constructs a multi-level feature extraction framework by integrating ProtFlash and Ankh3 protein language models. It introduces GANs to enhance data diversity and utilizes the FusionMMRCore strategy for efficient feature sampling. Ultimately, it achieves high-precision anticancer peptide prediction via GrowNet, SVM, and Random Forest classifiers.
+ACPSynergy constructs a multi-level feature extraction framework by integrating ProtFlash and Ankh3 protein language models. It introduces GAN to enhance data diversity and utilizes the FusionMMRCore strategy for efficient feature sampling. Ultimately, it achieves high-precision anticancer peptide prediction via GrowNet, SVM, and Random Forest classifiers.
 
 ## File Description
 
